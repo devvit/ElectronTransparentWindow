@@ -8,6 +8,7 @@ function createWindow() {
     transparent: true,
     frame: false,
     hasShadow: false,
+    focusable: false,
   });
 
   // and load the index.html of the app.
